@@ -1,6 +1,6 @@
-// Name: Parnika Jain
-// PRN: 23070126087
-// Batch: B1
+// Name: Trijal singh Babbar
+// PRN: 23070126137
+// Batch: B3
 
 
 // Main.java
